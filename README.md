@@ -1,2 +1,3 @@
 # Image-segmentation-using-pytorch
-Pytorch图像分割
+数据集：[百度网盘](链接：https://pan.baidu.com/s/1Ou4bsZkCxo6nuJ1T6Mq_HQ 
+提取码：rja0 
